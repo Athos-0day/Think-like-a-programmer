@@ -23,3 +23,8 @@ Quck_sort_student_grade : This is an implementation of the quick sort algorithm 
 Check_sort_array : Check if an Integer array is sort or not.
 
 My_first_cipher : This is an implementation of the Cesar's cipher with a shift of 3 characters.
+
+## Solving problems with pointers and dynamic memory : 
+---
+
+String_first_approach : This is an implementation of the string module which you can determine the end of the string by the last element of the array: null.
