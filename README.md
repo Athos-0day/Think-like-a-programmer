@@ -28,3 +28,5 @@ My_first_cipher : This is an implementation of the Cesar's cipher with a shift o
 ---
 
 String_first_approach : This is an implementation of the string module which you can determine the end of the string by the last element of the array: null.
+
+String_second_approach : Same thing but the first element of the array is his length.
