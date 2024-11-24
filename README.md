@@ -30,3 +30,10 @@ My_first_cipher : This is an implementation of the Cesar's cipher with a shift o
 String_first_approach : This is an implementation of the string module which you can determine the end of the string by the last element of the array: null.
 
 String_second_approach : Same thing but the first element of the array is his length.
+
+## Solving problems with classes : 
+---
+
+Automobile_class : An implementation of a class of Automobile with name, manufacturer and year.
+
+String_third_approach : I didn't code it but I did it in my school works, we just need to use a chained list.
