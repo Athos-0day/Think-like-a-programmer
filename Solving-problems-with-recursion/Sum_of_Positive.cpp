@@ -54,4 +54,5 @@ int main() {
     }
     Arr[2] = -2 ;
     std::cout << "Iterative : " << Iterative_Positive_Sum(Arr,5) <<" Recursive : " << Recursive_Positive_Sum(Arr,5) << std::endl ;
+    return 0;
 }
