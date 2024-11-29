@@ -23,3 +23,7 @@ int Recursive_Binary_Odd(int Arr[],int Size) {
 
 //Same thing with the linked list
 
+int main() {
+    return 0 ;
+}
+
