@@ -37,3 +37,10 @@ String_second_approach : Same thing but the first element of the array is his le
 Automobile_class : An implementation of a class of Automobile with name, manufacturer and year.
 
 String_third_approach : I didn't code it but I did it in my school works, we just need to use a chained list.
+
+## Solving problems with recursion : 
+---
+
+Sum_of_Positive : return the sum of positive integer in an Array and a Linked List with an iterative version and a recursive one.
+
+Binary_Odd : return if there is a odd number of 1 in an Array and Linked List of 1 and 0 with an iterative version and a recursive one (I did'nt do Linked List it's just the same thing as before).
